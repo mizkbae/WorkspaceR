@@ -38,10 +38,10 @@ print( number1 / number2 )
 print( number1 %% number2 )
 print( number1 ^ number2 )
 
-word1 <- "I"
-word2 <- "iz"
-word3 <-  "stoopid"
-print( word1  word2  word3 )
+word1 <- 'I'
+word2 <- 'iz
+word3 <-  'stoopid'
+print( word1 + word2 + word3 )
 
 
 var1 <- 10
